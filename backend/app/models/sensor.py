@@ -52,3 +52,4 @@ class SensorReading(db.Model):
 
     def __repr__(self):
         return f"<SensorReading id={self.id} temp={self.temperature} hum={self.humidity} time='{self.timestamp}'>"
+

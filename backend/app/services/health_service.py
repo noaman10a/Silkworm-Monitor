@@ -71,3 +71,4 @@ def check_silkworm_health(temp, hum, gas, soil=None, ldr=None):
         "recommendations": recommendations,
         "buzzer": buzzer_trigger
     }
+

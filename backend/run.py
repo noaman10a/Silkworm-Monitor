@@ -11,3 +11,4 @@ if __name__ == '__main__':
     print(f"  SILKWORM MONITOR BACKEND RUNNING ON http://{host}:{port}")
     print(f"========================================================\n")
     app.run(host=host, port=port, debug=debug)
+

@@ -25,3 +25,4 @@ class AlertEvent(db.Model):
             "timestamp": format_ist_str(self.timestamp),
             "timestamp_iso": format_iso(self.timestamp)
         }
+

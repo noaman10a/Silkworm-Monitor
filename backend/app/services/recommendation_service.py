@@ -77,3 +77,4 @@ def generate_recommendations(temp, hum, gas, soil=None, ldr=None):
             })
 
     return recommendations
+

@@ -77,3 +77,4 @@ def get_recent_alerts():
         "status": "success",
         "alerts": [a.to_dict() for a in alerts]
     }), 200
+

@@ -50,3 +50,4 @@ def validate_sensor_payload(data):
 
     except (ValueError, TypeError) as e:
         return False, {}, f"Data format error: numeric values required ({str(e)})."
+

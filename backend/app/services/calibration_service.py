@@ -45,3 +45,4 @@ def evaluate_light_level(raw_adc):
         return {'category': 'Optimal Diffuse', 'description': 'Ideal moderate diffuse lighting'}
     else:
         return {'category': 'Excessive Bright', 'description': 'Direct harsh light causing heat stress'}
+
