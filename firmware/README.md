@@ -48,3 +48,4 @@ If compiling in **Arduino IDE** or **PlatformIO**, install the following librari
 3. Paste the contents of `firmware.ino` into the Wokwi code tab.
 4. Click **Start Simulation**.
 5. Adjust temperature/humidity sliders on the DHT22 or the dials on the analog sensors to observe serial output and buzzer alerts in real time!
+

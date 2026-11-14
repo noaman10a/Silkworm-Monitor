@@ -275,3 +275,4 @@ void printTelemetryDebug(const TelemetryData& data) {
   Serial.printf("  Light Level   : %.1f ADC (Raw: %d)\n", data.ldrValue, data.rawLdr);
   Serial.println("---------------------------------------------------");
 }
+
